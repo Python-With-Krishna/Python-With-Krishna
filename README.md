@@ -13,7 +13,7 @@
 
 - 📫 How to reach me <a href="mailto:racherlakrishnaprasad4241@gmail.com"><i class="fas fa-envelope">**racherlaKrishnaPrasad4241@gmail.com**</i></a> 
 
-- 📄 Know about my experiences   <a href="https://drive.google.com/file/d/1QMOXieC-YH24IAQjTi7fCQ-WJYMkBK-m/view?usp=drive_link">**Resume**<i class="fas fa-envelope"></i></a>
+- 📄 Know about my experiences   <a href="https://drive.google.com/file/d/19Z_jReYv7k-W87wapALvbnhGhqw86n6d/view?usp=drive_link">**Resume**<i class="fas fa-envelope"></i></a>
 
 - ⚡ Fun fact **I enjoy turning complex problems into simple and efficient solutions.**
 
