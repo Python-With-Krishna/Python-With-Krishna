@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-krishna-prasad&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-krishna-prasad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-krishna-prasad" alt="code-with-krishna-prasad" /></a> </p>
-
 - 🌱 I’m currently learning **Django FrameWork,Python**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
