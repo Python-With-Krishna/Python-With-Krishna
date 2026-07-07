@@ -84,10 +84,12 @@ https://drive.google.com/file/d/19Z_jReYv7k-W87wapALvbnhGhqw86n6d/view?usp=drive
 
 </p>
 
+
+
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/python-with-krishna" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/0070f3/python-with-krishna" alt="GitHub Contribution Chart" width="1000" height="180"/>
 </p>
 
 # 📊 Contribution Graph
