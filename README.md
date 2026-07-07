@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=python-with-krishna&theme=onedark&row=1&column=6"/>
+  <img src="https://raw.githubusercontent.com/python-with-krishna/python-with-krishna/output/github-contribution-grid-snake.svg"/>
 </p>
