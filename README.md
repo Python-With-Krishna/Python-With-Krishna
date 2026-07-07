@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=python-with-krishna&show_icons=true&locale=en" alt="python-with-krishna" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=python-with-krishna&" alt="python-with-krishna" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=python-with-krishna"/></p>
