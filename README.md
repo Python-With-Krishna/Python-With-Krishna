@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Prasad</h1>
 
 <h3 align="center">
-Backend Developer | Python • FastAPI • PostgreSQL | Building Secure REST APIs
+Backend Developer | Python • FastAPI • PostgreSQL 
 </h3>
 
 <p align="center">
