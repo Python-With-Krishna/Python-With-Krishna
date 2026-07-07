@@ -36,7 +36,7 @@ https://drive.google.com/file/d/19Z_jReYv7k-W87wapALvbnhGhqw86n6d/view?usp=drive
 
 # 💻 Tech Stack
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.python.org">
 <img src="https://skillicons.dev/icons?i=python" />
@@ -84,11 +84,10 @@ https://drive.google.com/file/d/19Z_jReYv7k-W87wapALvbnhGhqw86n6d/view?usp=drive
 
 </p>
 
-
-## 🐍 Contribution Snake
+## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/python-with-krishna/python-with-krishna/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://ghchart.rshah.org/python-with-krishna" alt="GitHub Contribution Chart" />
 </p>
 
 # 📊 Contribution Graph
