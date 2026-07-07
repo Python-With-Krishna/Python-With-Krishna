@@ -28,6 +28,8 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=python-with-krishna)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=python-with-krishna&show_icons=true&locale=en" alt="python-with-krishna" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=python-with-krishna&theme=github_dark"/>
+</p>
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=python-with-krishna"/></p>
