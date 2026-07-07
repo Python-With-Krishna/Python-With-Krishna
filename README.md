@@ -1,68 +1,144 @@
 <h1 align="center">Hi 👋, I'm Krishna Prasad</h1>
-<h3 align="center">MCA Graduate | Aspiring Software Developer | Python & SQL Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=python-with-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="python-with-krishna" /> </p>
-
-- 🌱 I’m currently learning **FastAPI**
-
-- 🤝 I’m looking for help with **Backend(Fastapi)**
-
-- 👨‍💻 All of my projects are available at [https://python-with-krishna.netlify.app/](https://python-with-krishna.netlify.app/)
-
-- 💬 Ask me about **Python,FastAPI,SQl,Django,HTML,JS,CSS**
-
-- 📫 How to reach me **Racherlakrishnaprasad4241@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/19Z_jReYv7k-W87wapALvbnhGhqw86n6d/view?usp=drive_link](https://drive.google.com/file/d/19Z_jReYv7k-W87wapALvbnhGhqw86n6d/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/krishna-prasad4241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="racherla krishna prasad" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-</p>
-
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=python-with-krishna)
-
+<h3 align="center">
+Backend Developer | Python • FastAPI • PostgreSQL | Building Secure REST APIs
+</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=python-with-krishna&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=python-with-krishna&theme=github_dark" />
+  <a href="https://github.com/python-with-krishna">
+    <img src="https://komarev.com/ghpvc/?username=python-with-krishna&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 MCA Graduate passionate about Backend Development
+- 🌱 Currently learning **Advanced FastAPI & System Design**
+- 💻 Building REST APIs using **FastAPI, PostgreSQL & SQLAlchemy**
+- 🔐 Interested in Authentication, Authorization & Secure API Development
+- 🤝 Looking to collaborate on **Backend Development Projects**
+- 💬 Ask me about **Python, FastAPI, PostgreSQL, SQLAlchemy, Django & REST APIs**
+- 📫 Reach me at **Racherlakrishnaprasad4241@gmail.com**
+
+---
+
+## 🌐 Portfolio & Resume
+
+🌍 Portfolio: https://python-with-krishna.netlify.app/
+
+📄 Resume:
+https://drive.google.com/file/d/19Z_jReYv7k-W87wapALvbnhGhqw86n6d/view?usp=drive_link
+
+
+---
+
+# 💻 Tech Stack
+
+<p align="left">
+
+<a href="https://www.python.org">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://fastapi.tiangolo.com/">
+<img src="https://skillicons.dev/icons?i=fastapi" />
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgres" />
+</a>
+
+<a href="https://www.djangoproject.com/">
+<img src="https://skillicons.dev/icons?i=django" />
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+
+</p>
+
+
+
+
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=python-with-krishna&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📌 GitHub Summary
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=python-with-krishna&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=python-with-krishna&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Master FastAPI
+- 🐘 Become Advanced in PostgreSQL
+- 🔐 Learn OAuth2 & Microservices
+- ☁️ Deploy Applications using Docker & Cloud
+- 🤝 Contribute to Open Source
+- 💼 Secure a Backend Developer Role
+
+---
+
+# 🤝 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/krishna-prasad4241/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="mailto:Racherlakrishnaprasad4241@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
 </p>
