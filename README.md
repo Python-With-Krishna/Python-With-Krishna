@@ -32,4 +32,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=python-with-krishna&theme=github_dark"/>
 </p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=python-with-krishna"/></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=python-with-krishna&theme=onedark&row=1&column=6"/>
+</p>
