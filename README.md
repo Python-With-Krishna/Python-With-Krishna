@@ -33,6 +33,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/python-with-krishna/python-with-krishna/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=python-with-krishna&theme=github_dark"/>
 </p>
-
