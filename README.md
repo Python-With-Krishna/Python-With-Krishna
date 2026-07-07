@@ -85,8 +85,11 @@ https://drive.google.com/file/d/19Z_jReYv7k-W87wapALvbnhGhqw86n6d/view?usp=drive
 </p>
 
 
-![Snake animation](https://raw.githubusercontent.com/Python-With-Krishna/Python-With-Krishna/output/snake.svg)
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/python-with-krishna/python-with-krishna/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 # 📊 Contribution Graph
 
