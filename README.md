@@ -27,7 +27,7 @@ Backend Developer | Python • FastAPI • PostgreSQL
 
 ## 🌐 Portfolio & Resume
 
-🌍 Portfolio: https://python-with-krishna.netlify.app/
+🌍 Portfolio: https://Python-With-Krishna.github.io/Portfolio_Krishna/
 
 📄 Resume:
 https://drive.google.com/file/d/19Z_jReYv7k-W87wapALvbnhGhqw86n6d/view?usp=drive_link
