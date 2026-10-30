@@ -115,6 +115,13 @@ Backend Developer | Python • FastAPI • PostgreSQL
 
 ---
 
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](./.github/trophy.svg)
+
+
+---
+
 # 🎯 2026 Goals
 
 - 🚀 Master FastAPI
