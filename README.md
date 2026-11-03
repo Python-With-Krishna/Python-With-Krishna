@@ -30,7 +30,7 @@ Backend Developer | Python • FastAPI • PostgreSQL
 🌍 Portfolio: https://Python-With-Krishna.github.io/Portfolio_Krishna/
 
 📄 Resume:
-[https://drive.google.com/file/d/16-WsZ23anE9Kne_YCbJ4r1rgfitsHXlC/view?usp=drive_link](https://drive.google.com/file/d/16-WsZ23anE9Kne_YCbJ4r1rgfitsHXlC/view?usp=drive_link)
+[https://drive.google.com/file/d/19VgJCm8fpV9d3AQCsgJ4Auc0B99WUyCu/view?usp=drive_link](https://drive.google.com/file/d/19VgJCm8fpV9d3AQCsgJ4Auc0B99WUyCu/view?usp=drive_link)
 
 
 ---
